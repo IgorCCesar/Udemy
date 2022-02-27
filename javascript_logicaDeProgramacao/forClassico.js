@@ -16,7 +16,17 @@ for (let i = 400; i <= 500; i += 10) {
 
 // checando numeros pares
 
+/*
 for (let i = 0; i <= 10; i++) {
   const par = i % 2 === 0 ? "Par" : "Impar";
   console.log(i, par);
+}
+*/
+
+// Exibindo valores de um Array
+
+const frutas = ["Maçã", "Pêra", "Uva"];
+
+for (let i = 0; i < frutas.length; i++) {
+  console.log(frutas[i]);
 }
