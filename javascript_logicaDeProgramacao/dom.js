@@ -1,0 +1,3 @@
+// Modelo de objeto de documento(DOM)
+
+// https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model
