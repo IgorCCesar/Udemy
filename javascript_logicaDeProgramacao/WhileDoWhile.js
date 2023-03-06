@@ -23,14 +23,15 @@ let rand = random(min, max);
 console.log(rand);
 
 // Primeiro faz a verificação e depois executa o código
-/*while (rand !== 10) {
+while (rand !== 10) {
   rand = random(min, max);
   console.log(rand);
 }
-*/
 
 // Primeiro Executa o Código e depois faz a veridicação
+/*
 do {
   rand = random(min, max);
   console.log(rand);
 } while (rand !== 10);
+*/
